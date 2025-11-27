@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class value_pass {
+public class ValuePass {
     public static void main(String[]args){
          System.out.println(r("raj",10));
 

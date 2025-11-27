@@ -1,7 +1,6 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class secondcode {
+public class SecondCode {
     public static void main(String[]args){
     second();
     }
